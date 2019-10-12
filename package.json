@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-bee",
   "private": true,
-  "description": "Gatsby blog starter template",
+  "description": "developer blog for studying FE and etc...",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": "junism[junism]<jhlee910609@naver.com>",
   "bugs": {
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
@@ -69,7 +69,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
+    "url": "git+https://github.com/jhlee910609/dev_blog"
   },
   "scripts": {
     "post": "node ./cli/create-new-post.js",
@@ -80,6 +80,7 @@
     "start": "npm run develop",
     "build": "gatsby build",
     "lh": "lighthousebot",
-    "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
+    "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js",
+    "deploy": "gatsby build && gh-pages -d public -b master -r https://github.com/jhlee910609/dev-junism.github.io"
   }
 }
