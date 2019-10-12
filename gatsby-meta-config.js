@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://dev-junism.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/jhlee910609`, // Your GitHub account
+    github: `jhlee910609`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
   },
