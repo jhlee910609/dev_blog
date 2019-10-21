@@ -4,7 +4,6 @@ date: 2019-1-27 16:21:13
 lang: 'ko'
 ---
 # 이준희(Junhee, Lee) - 포트 폴리오
-
 ## 1. 학원 관리 솔루션 Tims- FE 개발
 
 - `2019.05` ~ `2019.11`
@@ -129,9 +128,7 @@ lang: 'ko'
 
 ### 3.1. 검색 기능 리뉴얼
 
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1g194gnhft8j30g70h4n05.jpg)
-
-
+![006tKfTcgy1g194gnhft8j30g70h4n05](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rf0x9ddj30g70h4wgk.jpg)
 
 ## 4. 식품 성분 데이터 제공 플랫폼, '엄선' app
 
@@ -148,36 +145,29 @@ lang: 'ko'
 
 ### 4.1. 홈 화면 리뉴얼
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1g164nid0snj31jj0s4wni.jpg)
+![006tKfTcgy1g164nid0snj31jj0s4wni](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rd21mo6j31jj0s444y.jpg)
 
+### 4.2. 상품상세
 
-
-### 4.2. 상품상세**
-
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1g164nlot4oj31jj0rpn3w.jpg)
-
-
+![006tKfTcgy1g164nlot4oj31jj0rpn3w](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rcl6xs6j31jj0rpwj9.jpg)
 
 ### 4.3. 검색 화면 리뉴얼
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1g164njmhiyj31ix0rftfd.jpg)
-
-
+![006tKfTcgy1g164njmhiyj31ix0rftfd](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rbzq01hj31ix0rfn1v.jpg)
 
 ### 4.4. 상품톡 
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1g194gobpysj314m0p4jye.jpg)
-
-
+![006tKfTcgy1g194gobpysj314m0p4jye](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rbfwgbfj314m0p4q80.jpg)
 
 ## 5. [Airbnb Copy app](https://github.com/jhlee910609/Airbnb)
 
 ### 5.1. 서비스 개요
 
 - UI/UX에 큰 노력을 하는 airbnb app을 직접 기획 및 개발해봄으로써 서비스의 흐름을 파악해보기로 하였다. 
+
 - 특히 지도와 위치 기반(LBS)의 목록 서비스에 중점을 두고 기획/개발하였다.
 
-![prototyping](https://ws3.sinaimg.cn/large/006tNbRwgy1fw1ubwr37cj31kw14c4ai.jpg)
+  ![006tNbRwgy1fw1ubwr37cj31kw14c4ai](https://tva1.sinaimg.cn/large/006y8mN6gy1g85ra7fabpj316b0u0wmi.jpg)
 
 ### 5.2. 개발과정
 
@@ -227,7 +217,7 @@ lang: 'ko'
 
 ### 7.1. 서비스 개요
 
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fvliphexdwj30ih0q4nam.jpg)
+![006tNbRwgy1fvliphexdwj30ih0q4nam](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rgbb3gsj30ih0q4gs5.jpg)
 
 - [서비스 UI 시나리오 링크](https://www.slideshare.net/jhlee0609/date-pick-ui)
 - [사업 계획서 링크](https://www.slideshare.net/jhlee0609/date-pick)
