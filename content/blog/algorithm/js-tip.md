@@ -40,3 +40,11 @@ function compare(a, b) {
 }
 
 ```
+
+3. `localeCompare`
+
+- char 크기 (index) 비교
+
+4. 소수 구하기
+
+- [참고 링크](https://jongmin92.github.io/2017/11/05/Algorithm/Concept/prime/)
