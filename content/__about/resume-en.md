@@ -3,11 +3,13 @@ title: 'about'
 date: 2019-1-27 16:21:13
 lang: 'ko'
 ---
+
 # 이준희(Junhee, Lee) - 포트 폴리오
+
 ## 1. 학원 관리 솔루션 Tims- FE 개발
 
 - `2019.05` ~ `2019.11`
--  `React.Js`, `Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standars js)`활용하여 개발
+- `React.Js`, `scss`,`Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint` 활용하여 개발
 
 ### 1.1. 고객 관리용 사내 admin FE 개발
 
@@ -18,15 +20,13 @@ lang: 'ko'
 ##### 1. 고객 가입하기 (학원 지점, 학원 브랜드, 직원)
 
 - 고객 가입 및 고객 조회 가능
-- 가입 분류에 따라 다른 가입 화면 
+- 가입 분류에 따라 다른 가입 화면
 
 <img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85oagkhsaj30ri0ii42b.jpg" alt="스크린샷 2019-10-21 오후 12.33.44"  />
 
 ![스크린샷 2019-10-21 오후 12.34.03](https://tva1.sinaimg.cn/large/006y8mN6gy1g85oamnn95j30ro0fv76r.jpg)
 
 ![스크린샷 2019-10-21 오후 12.34.11](https://tva1.sinaimg.cn/large/006y8mN6gy1g85oanea3uj30r80fmmzp.jpg)
-
-
 
 ##### 2. 지점 현황
 
@@ -68,8 +68,6 @@ lang: 'ko'
 
 <img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85otij73xj30nb0p1dhc.jpg" alt="스크린샷 2019-10-21 오후 12.30.04" style="zoom: 67%;" />
 
-
-
 ##### 2. 대쉬보드 개발
 
 - 로그인 후, 첫 화면인 대쉬보드 개발
@@ -87,7 +85,7 @@ lang: 'ko'
 - 또한, 다른 메뉴와 컴포넌트 디자인 동일
 - 상담`관리 기능`을 예로 설명
 
-###### 3.1. 상담 리스트 
+###### 3.1. 상담 리스트
 
 - 기간, 이름, 종류(필터) 검색 가능
 
@@ -101,8 +99,6 @@ lang: 'ko'
 
 ![스크린샷 2019-10-21 오후 2.06.45](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qp8l13jj31460u0q7n.jpg)
 
-
-
 ###### 3.3. 상담 등록/수정
 
 - 상담 관련 정보 입력 및 수정
@@ -115,7 +111,6 @@ lang: 'ko'
 
 - [바로가기](https://github.com/jhlee910609/weather_app_practice)
 
-
 ## 3. 요리 레시피 추천 플랫폼, '해먹남녀' app
 
 - `2018.02 ~ 2018.04` 재직
@@ -123,8 +118,6 @@ lang: 'ko'
 - `RxJava 1.x -> 2.x`, `OkHttp 2.x -> 3.x`, `Retrofit 1.x -> 2.x` 업데이트
 - `Java -> Kotlin` 컨버팅 및 신규 기능 `Kotlin`으로 개발
 - `MVP 아키텍쳐` 로 앱 구성
-
-
 
 ### 3.1. 검색 기능 리뉴얼
 
@@ -141,8 +134,6 @@ lang: 'ko'
 - `MVP 아키텍쳐` 일부 도입
 - `Push receiver GCM -> FCM` 교체
 
-
-
 ### 4.1. 홈 화면 리뉴얼
 
 ![006tKfTcgy1g164nid0snj31jj0s4wni](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rd21mo6j31jj0s444y.jpg)
@@ -155,7 +146,7 @@ lang: 'ko'
 
 ![006tKfTcgy1g164njmhiyj31ix0rftfd](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rbzq01hj31ix0rfn1v.jpg)
 
-### 4.4. 상품톡 
+### 4.4. 상품톡
 
 ![006tKfTcgy1g194gobpysj314m0p4jye](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rbfwgbfj314m0p4q80.jpg)
 
@@ -163,7 +154,7 @@ lang: 'ko'
 
 ### 5.1. 서비스 개요
 
-- UI/UX에 큰 노력을 하는 airbnb app을 직접 기획 및 개발해봄으로써 서비스의 흐름을 파악해보기로 하였다. 
+- UI/UX에 큰 노력을 하는 airbnb app을 직접 기획 및 개발해봄으로써 서비스의 흐름을 파악해보기로 하였다.
 
 - 특히 지도와 위치 기반(LBS)의 목록 서비스에 중점을 두고 기획/개발하였다.
 
@@ -176,17 +167,14 @@ lang: 'ko'
 
 - icon 및 button은 flaticon 활용
 - '게스트 모드'와 '호스트 모드'
+
   - 위 두 가지 기능을 앱 하나가 모두 기능하기 때문에 기획 및 개발이 까다로웠다.
   - 기획/개발하는 입장에서는 그러하나 사용자 입장에서는 별도의 앱 설치 없이 '게스트=호스트'라는 등식이 성립되기 때문에 편리한 UX라고 생각했다.
-
-  
 
 ### 5.3. 결과
 
 - [구동영상 링크](https://www.youtube.com/watch?v=2XVoROcGZWc)
 - 위 프로젝트 이후로 협업한 팀원들 모두 'airbnb'를 꾸준히 사용하고 있다.
-
-
 
 ## 6. **[Daily Look 추천 날씨 앱, C-Look](https://github.com/jhlee910609/android_app_CLOOK)**
 
@@ -197,21 +185,15 @@ lang: 'ko'
 - 현재 날씨에 맞는 Daily Look 추천 및 구매까지 연계할 수 있는 날씨 앱, C-Look
 - [간단한 flow shart](https://www.slideshare.net/jhlee0609/clook-application-flow-chart/1)
 
-
-
 ### 6.2. 개발과정
 
 - 협업 툴 : Zeplin, Trello
 - UI/UX 디자이너 1명과 함께 협업 진행
 - 직업 기획 및 개발, 2주간 해커톤 형식으로 프로젝트 진행
 
-
-
 ### 6.3. 결과
 
 - [구동영상 링크](https://www.youtube.com/watch?v=N0Khy7a2ZZQ)
-
-  
 
 ## 7. (기획) 위치 기반 데이트 플래너, Date Pick App
 
@@ -222,21 +204,15 @@ lang: 'ko'
 - [서비스 UI 시나리오 링크](https://www.slideshare.net/jhlee0609/date-pick-ui)
 - [사업 계획서 링크](https://www.slideshare.net/jhlee0609/date-pick)
 
-
-
 ### 7.2. 개발과정
 
 - 협업 툴 : Zeplin, Trello, Invision
 - UI/UX 디자이너 1명, 안드로이드 개발자 2명, Back-end 개발자 1명과 2달간 협업
 - 내부 데이터는 다이닝코드 홈페이지 데이터 크롤링 하여 구함 (플레이스토어 배포 x)
 
-
-
 ### 7.3. 결과
 
 - [구동영상 링크](https://www.youtube.com/watch?v=SYITRRx7P1A&feature=youtu.be)
-
-  
 
 ## 8. (기획) [한양대 광고홍보학과 학보, Eureka 웹 기획](http://hyueureka.cafe24.com/2016/index.html)
 
@@ -245,10 +221,7 @@ lang: 'ko'
 - 한양대학교 광고홍보학과 웹 학보 기획
 - 'Harmony'라는 컨셉에 부합하는 웹 페이지를 편집하기 위해 노력
 
-
-
 ### 8.2. 개발 과정
 
 - 웹 편집팀 4명, 컴퓨터 공학과 학생 1명과 웹 구축 진행
 - 개발 공수를 줄이기 위해 WordPress 템플릿을 활용하여 개발 진행
-
