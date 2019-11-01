@@ -4,8 +4,6 @@ date: 2019-10-29 13:10:57
 category: javascript
 ---
 
-# this 키워드와 call, bind, apply 함수
-
 > call, bind, apply에 대한 설명 전에 함수 바디에 사용할 수 있는 `this` 키워드에 대해 알아봅니다. 객체지향 언어를 사용해보신 분이라면 익숙한 용어일 것이며, 이해 또한 쉬우시리라 생각합니다. 이 부분을 이해하셔야 call, bind, apply에 대한 이해를 하실 수 있습니다.
 
 ## 1. 객체지향 언어에서의 `this`
