@@ -9,7 +9,7 @@ lang: 'ko'
 ## 1. 학원 관리 솔루션 Tims- FE 개발
 
 - `2019.05` ~ `2019.11`
-- `React.Js`, `scss`,`Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint` 활용하여 개발
+- `React.Js`, `scss`,`Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `rechart(차트 라이브러리)` 활용하여 개발
 
 ### 1.1. 고객 관리용 사내 admin FE 개발
 
