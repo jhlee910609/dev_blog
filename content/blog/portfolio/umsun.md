@@ -9,6 +9,7 @@ category: 포트폴리오
 - `2017.09 ~ 2018.01` 재직
 - 약 30만 다운로드의 '엄선' AOS 개발자로서 외주 개발자에게 인수인계 받아 유지/보수
 - 재직 기간 내, 약 15만 다운로드 수 증대
+- `MVP 아키텍쳐`, `Glide`, `Retrofit`, `OkHttp`, `butterKnife`,`TypeKit` 라이브러리 활용
 
 ### 1. 홈 화면 리뉴얼
 
@@ -45,6 +46,6 @@ category: 포트폴리오
 
 - `GA Tracking code` 삽입 및 `Crashlytics` 연동
 - `Kakao SDK`, `Facebook SDK` 연동 로그인 기능 개발
-- `Glide`, `Retrofit`, `OkHttp`, `butterKnfit`,`TypeKit` 라이브러리 활용
+- `Glide`, `Retrofit`, `OkHttp`, `butterKnife`,`TypeKit` 라이브러리 주입 및 활용
 - `MVP 아키텍쳐` 일부 도입
 - `Push receiver GCM -> FCM` 교체

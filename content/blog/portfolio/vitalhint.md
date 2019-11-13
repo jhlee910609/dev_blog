@@ -8,6 +8,7 @@ category: 포트폴리오
 
 - `2018.02 ~ 2018.04` 재직
 - 100만 다운로드 서비스 '해먹남녀' AOS app 유지/보수 및 배포
+- `MVP 아키텍쳐`,`Glide`, `Retrofit`, `OkHttp`,`RxJava`, `butterKnfit`,`TypeKit` 라이브러리 활용
 
 ### 1. 검색 기능 리뉴얼
 
