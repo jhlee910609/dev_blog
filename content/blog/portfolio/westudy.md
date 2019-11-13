@@ -60,6 +60,7 @@ category: 포트폴리오
 ### 2.1. 회원가입 및 로그인
 
 - `input component` 개발 - 회원 가입 시, 입력 값에 따른 변화 컴포넌트 개발 (미입력, 적합, 부적합 등)
+- 로그인 및 회원가입 프로세스 구현
 
 <img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85qtb66c1j31c80u0wh8.jpg" alt="스크린샷 2019-10-21 오후 1.00.05" style="zoom: 67%;" />
 
