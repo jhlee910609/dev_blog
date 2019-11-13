@@ -8,6 +8,7 @@ category: 포트폴리오
 
 - `2019.05` ~ `2019.11` 재직
 - `React.Js`, `lodash`, `scss`, `Javascript(es6)`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `reset css`, `material-ui` 활용하여 개발
+- 컴포넌트 개발 시, `Container-Presenter 패턴`을 활용하여 개발
 
 ## 1. 고객 관리용 사내 admin FE 개발
 
