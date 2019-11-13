@@ -4,15 +4,14 @@ date: 2019-11-13 14:11:18
 category: 포트폴리오
 ---
 
-## 1. 학원 관리 솔루션 Tims- FE 개발
+# 학원 관리 솔루션 Tims- FE 개발
 
 - `2019.05` ~ `2019.11` 재직
-- `React.Js`, `scss`, `Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `rechart(차트 라이브러리)`, `reset css` 활용하여 개발
+- `React.Js`, `scss`, `Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `rechart(차트 라이브러리)`, `reset css`, `material-ui` 활용하여 개발
 
 ## 1. 고객 관리용 사내 admin FE 개발
 
 - B2B 고객 및 영업 관리를 위한 admin FE 개발
-
 - 개발 기간: 3주
 
 ### 1.1. 고객 가입하기 (학원 지점, 학원 브랜드, 직원)
@@ -60,7 +59,7 @@ category: 포트폴리오
 
 ### 2.1. 회원가입 및 로그인
 
-- input component 개발 - 회원 가입 시, 입력 값에 상태 변화 컴포넌트 개발 (미입력, 적합, 부적합 등)
+- `input component` 개발 - 회원 가입 시, 입력 값에 따른 변화 컴포넌트 개발 (미입력, 적합, 부적합 등)
 
 <img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85qtb66c1j31c80u0wh8.jpg" alt="스크린샷 2019-10-21 오후 1.00.05" style="zoom: 67%;" />
 
@@ -70,6 +69,8 @@ category: 포트폴리오
 
 - 로그인 후, 첫 화면인 대쉬보드 개발
 - `React chart`인 `ReChart` 라이브러리를 활용하여 차트 컴포넌트 개발
+- `state` 관리를 위해 `mobx` 라이브러리 활용
+- 기간 별 조회 및 차트 변화 가능
 
 ![스크린샷 2019-10-21 오후 12.25.24](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qtbw9xfj30vl0npabd.jpg)
 
@@ -77,23 +78,28 @@ category: 포트폴리오
 
 ![스크린샷 2019-10-21 오후 12.25.40](https://tva1.sinaimg.cn/large/006y8mN6gy1g85ptwxtedj30vi0ongnj.jpg)
 
-### 2.3. 기타 운영 화면 개발 (재학생, 직원, 학부모, 행사, 수납, 상담, 강좌 등 총 15개 메뉴에 대한 화면 개발 )
+### 2.3. 기타 운영 화면 개발
 
-- 전체적인 플로우 `목록 (리스트) -> 입력/수정 -> 상세`로 구성
+- 재학생, 직원, 학부모, 행사, 수납, 상담, 강좌 등 총 15개 메뉴에 대한 화면 개발
+- 전체적인 플로우 `목록(리스트) -> 입력/수정 -> 상세`로 구성
 - 또한, 다른 메뉴와 컴포넌트 디자인 동일
 - `상담 관리 기능`을 예로 설명
 
 ##### 1. 상담 리스트
 
-- 기간, 이름, 종류(필터) 검색 가능
+- 기간 조회, 소팅(필터), 이름 검색 가능
+- `table`, `pagination`, `검색`, `필터` 컴포넌트 개발
 
 ![스크린샷 2019-10-21 오후 12.19.04](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qd4ufjvj30uy0jz76q.jpg)
+
+![Screenshot 2019-11-13 at 15.57.33](https://tva1.sinaimg.cn/large/006y8mN6gy1g8wf9k99oyj30sv0oo761.jpg)
 
 ![스크린샷 2019-10-21 오후 2.00.51](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qjgwujnj312k0u044y.jpg)
 
 ##### 2. 상담 상세
 
 - 리스트 item 클릭 시, 상세 화면으로 이동
+- 상담 내용에 대한 댓글 및 대댓글 작성 가능
 
 ![스크린샷 2019-10-21 오후 2.06.45](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qp8l13jj31460u0q7n.jpg)
 
