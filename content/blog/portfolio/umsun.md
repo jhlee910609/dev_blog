@@ -1,12 +1,12 @@
 ---
-title: 엄선
+title: 트라이어스앤컴퍼니(엄선)
 date: 2019-11-13 14:11:40
 category: 포트폴리오
 ---
 
 ## 식품 성분 데이터 제공 플랫폼, '엄선' app
 
-- `2017.09 ~ 2018.02` 재직
+- `2017.09 ~ 2018.01` 재직
 - 약 30만 다운로드의 '엄선' AOS 개발자로서 외주 개발자에게 인수인계 받아 유지/보수
 - 재직 기간 내, 약 15만 다운로드 수 증대
 
@@ -35,6 +35,11 @@ category: 포트폴리오
 - 상품 리뷰 기능의 상품톡 기능 개발
 
 ![006tKfTcgy1g194gobpysj314m0p4jye](https://tva1.sinaimg.cn/large/006y8mN6gy1g85rbfwgbfj314m0p4q80.jpg)
+
+### 5. Crash Free rate 96% → 99%로 개선
+
+- 인수인계 시, 발생하던 각종 버그 수정
+- 기존 네트워크 라이브러리 HttpUrlConnection → Retrofit 2.0으로 교체
 
 ### 5. etc
 

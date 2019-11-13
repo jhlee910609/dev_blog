@@ -1,10 +1,10 @@
 ---
-title: 위스터디
+title: 위스터디(westudy)
 date: 2019-11-13 14:11:18
 category: 포트폴리오
 ---
 
-# 학원 관리 솔루션 Tims- FE 개발
+# 학원 관리 솔루션 Tims FE 개발
 
 - `2019.05` ~ `2019.11` 재직
 - `React.Js`, `scss`, `Javascript(es6)`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `reset css`, `material-ui` 활용하여 개발
@@ -18,8 +18,6 @@ category: 포트폴리오
 
 - 고객 가입 및 고객 조회 가능
 - 가입 분류에 따라 다른 가입 화면
-
-<img src="https://tva1.sinaimg.cn/large/006y8mN6gy1g85oagkhsaj30ri0ii42b.jpg" alt="스크린샷 2019-10-21 오후 12.33.44"  />
 
 ![스크린샷 2019-10-21 오후 12.34.03](https://tva1.sinaimg.cn/large/006y8mN6gy1g85oamnn95j30ro0fv76r.jpg)
 
@@ -56,7 +54,7 @@ category: 포트폴리오
 
 - B2B 고객용 admin FE 개발
 - `React.Js`, `scss`, `Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `rechart(차트 라이브러리)`, `reset css`, `material-ui` 활용하여 개발
-- 개발기간 : 3개월
+- 개발기간 : 4개월
 
 ### 2.1. 회원가입 및 로그인
 
@@ -72,7 +70,7 @@ category: 포트폴리오
 - 로그인 후, 첫 화면인 대쉬보드 개발
 - `React chart`인 `ReChart` 라이브러리를 활용하여 차트 컴포넌트 개발
 - `state` 관리를 위해 `mobx` 라이브러리 활용
-- 기간 별 조회 및 차트 변화 가능
+- 기간 별 조회 가능
 
 ![스크린샷 2019-10-21 오후 12.25.24](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qtbw9xfj30vl0npabd.jpg)
 
@@ -84,19 +82,19 @@ category: 포트폴리오
 
 - 재학생, 직원, 학부모, 행사, 수납, 상담, 강좌 등 총 15개 메뉴에 대한 화면 개발
 - 전체적인 플로우 `목록(리스트) -> 입력/수정 -> 상세`로 구성
-- 또한, 다른 메뉴와 컴포넌트 디자인 동일
+- 다른 메뉴와 컴포넌트 디자인 동일
 - `상담 관리 기능`을 예로 설명
 
 ##### 1. 상담 리스트
 
-- 기간 조회, 소팅(필터), 이름 검색 가능
+- 기간 조회, 소팅(필터), 리스트 개수 선택(10, 30, 50개), 이름 검색 가능
 - `table`, `pagination`, `검색`, `필터` 컴포넌트 개발
 
 ![스크린샷 2019-10-21 오후 12.19.04](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qd4ufjvj30uy0jz76q.jpg)
 
-![Screenshot 2019-11-13 at 15.57.33](https://tva1.sinaimg.cn/large/006y8mN6gy1g8wf9k99oyj30sv0oo761.jpg)
-
 ![스크린샷 2019-10-21 오후 2.00.51](https://tva1.sinaimg.cn/large/006y8mN6gy1g85qjgwujnj312k0u044y.jpg)
+
+![Screenshot 2019-11-13 at 15.57.33](https://tva1.sinaimg.cn/large/006y8mN6gy1g8wf9k99oyj30sv0oo761.jpg)
 
 ##### 2. 상담 상세
 
