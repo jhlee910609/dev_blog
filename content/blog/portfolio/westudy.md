@@ -7,7 +7,7 @@ category: 포트폴리오
 # 학원 관리 솔루션 Tims- FE 개발
 
 - `2019.05` ~ `2019.11` 재직
-- `React.Js`, `scss`, `Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `rechart(차트 라이브러리)`, `reset css`, `material-ui` 활용하여 개발
+- `React.Js`, `scss`, `Javascript(es6)`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `reset css`, `material-ui` 활용하여 개발
 
 ## 1. 고객 관리용 사내 admin FE 개발
 
@@ -55,6 +55,7 @@ category: 포트폴리오
 ## 2. 고객용 admin 개발
 
 - B2B 고객용 admin FE 개발
+- `React.Js`, `scss`, `Javascript(es6)`, `mobx`, `react router`, `webpack`, `babel`, `eslint(standard js)`, `stylelint`, `rechart(차트 라이브러리)`, `reset css`, `material-ui` 활용하여 개발
 - 개발기간 : 3개월
 
 ### 2.1. 회원가입 및 로그인

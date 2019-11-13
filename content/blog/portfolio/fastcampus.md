@@ -7,7 +7,6 @@ category: 포트폴리오
 ## 패스트 캠퍼스 교육
 
 - `2017. 05 ~ 2017. 08`: 안드로이드 프로그래밍 교육 과정을 통해 Java 언어와 안드로이드 프로그래밍 공부
-- 기여도 50% (다른 개발자 1명과 나눠 작업)
 
 ## 5. [Airbnb Copy app](https://github.com/jhlee910609/Airbnb)
 
@@ -38,8 +37,6 @@ category: 포트폴리오
 ## 6. [Daily Look 추천 날씨 앱, C-Look](https://github.com/jhlee910609/android_app_CLOOK)
 
 ### 6.1. 서비스 개요
-
-- 기여도 100%
 
 ![](https://camo.githubusercontent.com/f5c76f27b435b86712aab8b59fb956962858d01e/68747470733a2f2f7773342e73696e61696d672e636e2f6c617267652f303036744b66546367793166696e347734613077306a3330623430386777656e2e6a7067)
 
