@@ -4,7 +4,7 @@ date: 2019-11-13 14:11:09
 category: 포트폴리오
 ---
 
-## 요리 레시피 추천 플랫폼, '해먹남녀' app
+## [요리 레시피 추천 플랫폼, '해먹남녀' app](https://play.google.com/store/apps/details?id=com.vitalhint.haemukja&hl=ko)
 
 - `2018.02 ~ 2018.04` 재직
 - 100만 다운로드 서비스 '해먹남녀' AOS app 유지/보수 및 배포

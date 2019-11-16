@@ -4,7 +4,7 @@ date: 2019-11-13 14:11:40
 category: 포트폴리오
 ---
 
-## 식품 성분 데이터 제공 플랫폼, '엄선' app
+## [식품 성분 데이터 제공 플랫폼, '엄선' app](https://play.google.com/store/apps/details?id=com.umsun.application&hl=ko)
 
 - `2017.09 ~ 2018.01` 재직
 - AOS 개발자로서 외주 개발자에게 인수인계 받아 유지/보수
