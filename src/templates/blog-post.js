@@ -10,9 +10,9 @@ import { SocialShare } from '../components/social-share'
 import { SponsorButton } from '../components/sponsor-button'
 import { Bio } from '../components/bio'
 import { PostNavigator } from '../components/post-navigator'
-import { Disqus } from '../components/disqus'
 import { Utterences } from '../components/utterances'
 import * as ScrollManager from '../utils/scroll'
+import { Disqus } from 'gatsby-plugin-disqus';
 
 import '../styles/code.scss'
 
@@ -72,6 +72,9 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 280)
       html
+      fields{
+        slug
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")

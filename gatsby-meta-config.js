@@ -4,6 +4,7 @@ module.exports = {
   author: `junism`,
   introduction: `interested in FE esp ReactJS`,
   siteUrl: `https://dev-junism.netlify.com`, // Your blog site url
+  disqusShortname: 'dev-junism',
   social: {
     twitter: ``, // Your Twitter account
     github: `jhlee910609`, // Your GitHub account

@@ -101,5 +101,11 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-lodash`,
     `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `dev-junism` // 이부분 수정
+      }
+    }
   ],
 }
