@@ -1,10 +1,10 @@
 ---
-title: state 초기화는 어디에서 해야하는가?
+title: state 초기화는 어디에서 해야하는가
 date: 2020-06-05 00:06:57
 category: react
 ---
 
-## State 초기화는 반드시 constructor 안에서 해야하는가?
+## State 초기화는 반드시 constructor 안에서 해야하는가
 
 > state 초기화를 어디에서 해야하는가?에 대한 의문이 있었다. 자세히 파야하는 이슈는 아니지만 코드 별로 state 초기화를 하는 위치가 달라서 도대체 그 이유가 무엇인지를 정리해보았다.
 
