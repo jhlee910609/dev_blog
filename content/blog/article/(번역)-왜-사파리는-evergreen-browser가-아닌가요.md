@@ -1,4 +1,4 @@
----
+git ---
 title: (번역) 왜 사파리는 Evergreen Browser가 아닌가요?
 date: 2021-01-24 23:01:76
 category: article
