@@ -21,7 +21,7 @@ lang: 'ko'
 |       기간        |                      내용                      |                         링크                         |
 | :---------------: | :--------------------------------------------: | :--------------------------------------------------: |
 | 2021.05 | reactjs interview questions 번역 | https://github.com/jhlee910609/reactjs-interview-questions |
-| 2021.03 | jspreadsheet-ce 중복코드 fix | https://github.com/jspreadsheet/ce/graphs/contributors |
+| 2021.03 | jspreadsheet-ce 중복코드 fix | https://github.com/jspreadsheet/ce/pull/1305 |
 | 2017.05 ~ 2017.08 | 패스트캠퍼스 안드로이드 개발 교육과정 프로젝트 | https://dev-junism.netlify.com/portfolio/fastcampus/ |
 |      ~ 17.05      |        기타 프로젝트(교내 및 교육기관)         |    https://dev-junism.netlify.com/portfolio/etc/     |
 |                   |                                                |                                                      |
