@@ -5,6 +5,7 @@ export default class HTML extends React.Component {
   render() {
     return (
       <html {...this.props.htmlAttributes}>
+
         <head>
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
@@ -13,6 +14,8 @@ export default class HTML extends React.Component {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1, maximum-scale=2"
           />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6822773416581626"
+            crossorigin="anonymous"></script>
           {this.props.headComponents}
         </head>
         <body {...this.props.bodyAttributes}>
